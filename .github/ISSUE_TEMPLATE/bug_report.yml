@@ -48,9 +48,9 @@ body:
     attributes:
       label: Log output
       description: |
-        'Please provide log files of the game session in which the issue happened.
+        Please provide log files of the game session in which the issue happened.
         
-        **Do not upload the whole log file**. Instead upload it to [mclo.gs](https://mclo.gs/) or similar. (Launchers like Prism already have an option to upload the log there.)'
+        **Do not upload the whole log file**. Instead upload it to [mclo.gs](https://mclo.gs/) or similar. (Launchers like Prism already have an option to upload the log there.)
       placeholder: https://mclo.gs/WnMMikq
     validations:
       required: false
