@@ -8,6 +8,7 @@ body:
         > [!WARNING]
         > Issues suspected of being created, documented, or aided with
         > AI/LLM usage will be closed without further discussion.
+        > We are perfectly capable of understanding logs ourselves
 
         Thanks for taking the time to fill out this bug report!
         
@@ -20,7 +21,7 @@ body:
     id: bug-description
     attributes:
       label: Bug Description
-      description: 'A clear explanation of what the issue is.'
+      description: 'A clear explanation of what the issue is, with steps to reproduce if applicable.'
       placeholder: Leave a comment
     validations:
       required: true
