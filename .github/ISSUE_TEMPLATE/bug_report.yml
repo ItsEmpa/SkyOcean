@@ -1,6 +1,7 @@
 name: Bug Report
 description: Create a report to help us improve
 type: 'bug'
+labels: "bug"
 body:
   - type: markdown
     attributes:
@@ -55,15 +56,6 @@ body:
       placeholder: https://mclo.gs/WnMMikq
     validations:
       required: false
-
-  - type: upload
-    id: log-test
-    attributes:
-      label: Log upload test
-      description: Drag and drop the log files
-    validations:
-      required: false
-      accept: ".log"
 
 
   - type: textarea
