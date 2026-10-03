@@ -13,7 +13,8 @@ body:
         
         Before continuing to make the issue, please make sure there are no similar issues on [the issue tracker](https://github.com/meowdding/SkyOcean/issues).
         If there are, consider contributing your information in there instead!
-        You can also join the [Discord Server](https://discord.gg/FsRc2GUwZR) for more help.
+        > [!TIP]
+        > You can also join the [Discord Server](https://discord.gg/FsRc2GUwZR) for more help.
 
   - type: textarea
     id: bug-description
