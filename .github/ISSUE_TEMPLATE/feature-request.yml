@@ -1,0 +1,26 @@
+name: Feature Request
+description: Suggest a new feature/improvement
+type: 'feature'
+body:
+  - type: markdown
+    attributes:
+      value: |
+        > [!WARNING]
+        > Issues suspected of being created, documented, or aided with
+        > AI/LLM usage will be closed without further discussion.
+
+        Thanks for taking the time to fill out this feature request!
+        
+        Before continuing to make the issue, please make sure there are no similar issues on [the issue tracker](../issues).
+        If there are, consider contributing your information in there instead!
+        > [!TIP]
+        > You can also join the [Discord Server](https://discord.gg/FsRc2GUwZR) for more help.
+
+  - type: textarea
+    id: feature-description
+    attributes:
+      label: Request Description
+      description: 'A clear explanation of what the requested feature/improvement is.'
+      placeholder: Leave a comment
+    validations:
+      required: true
