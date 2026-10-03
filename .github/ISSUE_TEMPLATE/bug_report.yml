@@ -56,6 +56,16 @@ body:
     validations:
       required: false
 
+  - type: upload
+    id: log-test
+    attributes:
+      label: Log upload test
+      description: Drag and drop the log files
+    validations:
+      required: false
+      accept: ".log"
+
+
   - type: textarea
     id: additional-context
     attributes:
