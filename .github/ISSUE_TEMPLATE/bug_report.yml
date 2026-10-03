@@ -9,7 +9,8 @@ body:
         > [!WARNING]
         > Issues suspected of being created, documented, or aided with
         > AI/LLM usage will be closed without further discussion.
-        > *We are perfectly capable of understanding logs ourselves*
+        > *We are perfectly capable of understanding logs ourselves,*
+        > *and don't tolerate usage of generative models.*
 
         Thanks for taking the time to fill out this bug report!
         
